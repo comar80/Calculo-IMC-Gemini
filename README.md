@@ -1,4 +1,4 @@
-# Calculo-IMC-Gemini
+# Dicas de Saúde com Google Gemini
 Dicas de saúde do Google Gemini baseadas no seu índice de massa corporal.
 
 Projeto em Python desenvolvido usando o Google Gemini e Google Colab.
